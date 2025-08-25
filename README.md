@@ -10,8 +10,8 @@ A GUI wallpaper selector for Hyprpaper, built with Rust using `eframe/egui`.
 - Notifications and error overlays
 
 ## NOTICE
-- Just to make you have to set the ~/config/hypr/hyprpaper.conf "ipc = on" so the application able to call "hyprctl hyprpaper ..." 
-- For convenience, place all of your wallpapers at ~/Pictures/Wallpapers
+- Make you have to set the ~/config/hypr/hyprpaper.conf "ipc = on" so the application able to call "hyprctl hyprpaper ...", if not the command wont found the hyprpaper socket.
+- For convenience, place all of your wallpapers at ~/Pictures/Wallpapers.
 
 ## Screenshots
 ![Hyprpaper GUI Screenshot](docs/hyprpaper-gui_hyprshot.png)
