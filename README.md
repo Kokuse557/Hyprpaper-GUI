@@ -1,9 +1,18 @@
 # Hyprpaper GUI
 
 A High-Performance GUI wallpaper selector for Hyprpaper, built with Rust using `eframe/egui`.
+i created this in my freetime, so its my exploration stuff...
+
+About Hyprpaper-GUI, there is some others that create the same concept, some of them uses python pygame, which in my experience it uses high cpu and opens lil bit slow, so i create my own version with Rust, basically just another attempt that inspired by others.
+
+## High-Performance GUI
+
+Instead targeting the main folder and renders everything which is able to open in whopping 40 seconds, this one basically :
+- Tracks both ~/Pictures/Wallpapers and ~/.local/cache/thumbnails
+- List all md5, and renders cached images that linked to the ~/Pictures/Wallpapers so it has really responsive GUI
 
 ## Features
-- High Performance GUI
+- High Performance GUI with Rust and egui
 - Browse and preview image thumbnails
 - Cleans up with efficient caching and preloading logic
 - Select which monitor to apply the wallpaper to
