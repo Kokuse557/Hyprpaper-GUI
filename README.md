@@ -7,7 +7,7 @@ About Hyprpaper-GUI, there is some others that create the same concept, some of 
 
 ## High-Performance GUI
 
-Instead targeting the main folder and renders everything which is able to open in whopping 40 seconds, this one basically :
+Instead targeting the main folder and renders everything which is able to open in whopping 40 seconds (my last attempt), this one basically :
 - Tracks both ~/Pictures/Wallpapers and ~/.local/cache/thumbnails
 - List all md5, and renders cached images that linked to the ~/Pictures/Wallpapers so it has really responsive GUI
 
