@@ -1,6 +1,6 @@
 # Hyprpaper GUI
 
-A Hight-Performance GUI wallpaper selector for Hyprpaper, built with Rust using `eframe/egui`.
+A High-Performance GUI wallpaper selector for Hyprpaper, built with Rust using `eframe/egui`.
 
 ## Features
 - High Performance GUI
