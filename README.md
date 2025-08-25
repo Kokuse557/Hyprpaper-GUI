@@ -14,7 +14,7 @@ A GUI wallpaper selector for Hyprpaper, built with Rust using `eframe/egui`.
 - For convenience, place all of your wallpapers at ~/Pictures/Wallpapers
 
 ## Screenshots
-*(Add images here for visual context)*
+![Hyprpaper GUI Screenshot](docs/hyprpaper-gui_hyprshot.png)
 
 ## Building & Running
 
