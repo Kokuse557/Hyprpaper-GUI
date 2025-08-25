@@ -1,6 +1,6 @@
 # Hyprpaper GUI
 
-A GUI wallpaper selector for Hyprpaper, built in Rust using `eframe/egui`.
+A GUI wallpaper selector for Hyprpaper, built with Rust using `eframe/egui`.
 
 ## Features
 - Browse and preview image thumbnails
