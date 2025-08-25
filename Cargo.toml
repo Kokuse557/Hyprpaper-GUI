@@ -1,0 +1,20 @@
+[package]
+name = "hyprpaper-gui"
+version = "0.1.0"
+edition = "2024"
+description = "Simple wallpaper GUI selector for Hyprpaper, Made with Rust!"
+license = "Apache-2.0"
+repository = "https://github.com/Kokuse557/Hyprpaper-GUI"
+
+
+[dependencies]
+dirs = "6.0.0"
+eframe = "0.27"   
+image = "0.24"
+md5 = "0.8.0"
+notify = "8.2.0"
+rfd = "0.15.4"
+serde = "1.0.219"
+serde_json = "1.0.143"
+thread = "0.0.1"
+url = "2.5.6"
