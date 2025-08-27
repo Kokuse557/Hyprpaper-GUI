@@ -14,6 +14,7 @@ Instead of targeting the main folder and rendering everything, which could take 
 
 ## Features
 - High Performance GUI with Rust and egui
+- Minimalistic design, Gives user full control of the app's sizing for their own Hyprland ricings via hyprland.conf
 - Browse and preview image thumbnails efficiently via md5 and local cache
 - Select which monitor to apply the wallpaper to
 - Scans folder ~/Pictures/Wallpapers and any folders underneath and gives user album separation in the app  
